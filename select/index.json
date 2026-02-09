@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "fried egg",
+  "base_artist": "いもぴー",
+  "createdAt": "2026-02-09T14:02:49.217685Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FRIED EGG",
+      "artist": "Lil Darkie",
+      "has_synced": false,
+      "path": "select/01_FRIED_EGG_Lil_Darkie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fried Egg",
+      "artist": "Grass Widow",
+      "has_synced": false,
+      "path": "select/02_Fried_Egg_Grass_Widow.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life is like a fried egg, once perfect everyone wants to destroy it",
+      "artist": "Noiserv",
+      "has_synced": true,
+      "path": "select/03_Life_is_like_a_fried_egg,_once_perfect_everyone_wants_to_destroy_it_Noiserv.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FRIED EGG",
+      "artist": "Lil Darkie",
+      "has_synced": true,
+      "path": "select/04_FRIED_EGG_Lil_Darkie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Life is like a fried egg, once perfect everyone ... destroy it",
+      "artist": "noiserv",
+      "has_synced": true,
+      "path": "select/05_Life_is_like_a_fried_egg,_once_perfect_everyone_..._destroy_it_noiserv.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fried egg (feat. 夏色花梨)",
+      "artist": "いもぴー",
+      "has_synced": false,
+      "path": "select/pl_01_fried_egg_(feat._夏色花梨)_いもぴー.txt"
+    }
+  ]
+}
